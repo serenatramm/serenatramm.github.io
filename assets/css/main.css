@@ -593,7 +593,7 @@ input, select, textarea {
 			-webkit-animation: overlay-hide 1.5s ease-in forwards !important;
 			-ms-animation: overlay-hide 1.5s ease-in forwards !important;
 			animation: overlay-hide 1.5s ease-in forwards !important;
-			background: #1c1d26;
+			background: url("../../images/jpegPIA18853.width-1600.jpg");
 			content: '';
 			display: block;
 			height: 100%;
