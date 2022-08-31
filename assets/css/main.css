@@ -595,7 +595,6 @@ input, select, textarea {
 			animation: overlay-hide 1.5s ease-in forwards !important;
 			background: url("../../images/jpegPIA18853.width-1600.jpg");
 			content: '';
-			display: block;
 			height: 100%;
 			left: 0;
 			opacity: 0;
