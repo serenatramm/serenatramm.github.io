@@ -617,7 +617,7 @@ input, select, textarea {
 			-webkit-animation: none !important;
 			-ms-animation: none !important;
 			animation: none !important;
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
